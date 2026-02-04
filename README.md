@@ -1,5 +1,3 @@
-# Advanced-Python
-intership
-pythonprogramming
-ict acadamy
-technopark
+# advanced python
+electonics
+mechnical
